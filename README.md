@@ -27,7 +27,7 @@
 
   <section>
       <h2>Reach me at</h2>
-      <p>My Mail: <a href="mailto:nguy1308@msu.edu" style="color: lightblue;">Send An Email</a></p>
+      <p>My Mail: <a href="mailto:nguy1308@msu.edu" style="color: lightblue;">nguy1308@msu.edu</a></p>
   </section>
 
   <p><font color="green">Go Green</font>, <font color="white">Go White</font></p>
