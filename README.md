@@ -15,8 +15,8 @@
   <section>
       <h2>About Me 🤓</h2>
       <p>My full name is Nguyen Gia Minh.</p>
-      <p>I'm currently a sophomore at Michigan State. 🏫</p>
-      <p>Aspiring Web Developer specializing in back end. 🎯</p>
+      <p>I'm currently a sophomore at Michigan State, Majoring in Computer Science and Engineering. 🏫</p>
+      <p>Just an enthusiast figuring things out 🎯</p>
     
   </section>
 
