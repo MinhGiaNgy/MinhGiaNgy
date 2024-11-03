@@ -4,16 +4,20 @@
 
 
 
+
+
 <body style="background-color: black; color: lightgray;">
 
   <div>
-      <h1>Hello World, I'm <a href="https://github.com/MinhGiaNgy/" style="color: lightblue;">@MinhGiaNgy</a></h1>
+      <h1> 👋 Hello World, I'm <a href="https://github.com/MinhGiaNgy/" style="color: lightblue;">@MinhGiaNgy</a></h1>
   </div>
 
   <section>
       <h2>About Me 🤓</h2>
       <p>My full name is Nguyen Gia Minh.</p>
-      <p>I'm currently a sophomore at Michigan State.</p>
+      <p>I'm currently a sophomore at Michigan State. 🏫</p>
+      <p>Aspiring Web Developer specializing in back end. 🎯</p>
+    
   </section>
 
   <section>
@@ -24,6 +28,18 @@
           <li>Wasting too much time on easy problems on LeetCode 😭</li>
       </ul>
   </section>
+
+
+  <section>
+    <h2>What I'm Working On 🎯</h2>
+    <ul>
+        <li> Currently nothing right now 🦗</li>
+        <li> Failing my classes 😭</li>
+    </ul>
+  </section>
+
+
+  
 
   <section>
       <h2>Reach me at</h2>
