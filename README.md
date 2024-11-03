@@ -43,6 +43,21 @@
 
   <section>
       <h2>Reach me at</h2>
+      <div style="display: flex; align-items: center; flex-direction: row; justify-content: space-between;">
+  <a href="https://discordapp.com/users/408966274492792853" target="_blank">
+    <img src="./asset/colored-SVG/discord-com.svg" style="width: 10%;">
+  </a>
+  <a href="https://www.linkedin.com/in/minh-gia-nguyen-884792257/" target="_blank">
+    <img src="./asset/colored-SVG/linkedin-com.svg" style="width: 10%;">
+  </a>
+  <a href="https://leetcode.com/u/ExoticButters2005/" target="_blank">
+    <img src="./asset/colored-SVG/leetcode-com.svg" style="width: 10%;"> 
+  </a>
+  <a href="https://www.facebook.com/giaminh.nguyen.50115/" target="_blank">
+    <img src="./asset/colored-SVG/facebook-com.svg" style="width: 10%;"> 
+  </a>
+        
+</div>
       <p>My Mail: <a href="mailto:nguy1308@msu.edu" style="color: lightblue;">nguy1308@msu.edu</a></p>
   </section>
 
