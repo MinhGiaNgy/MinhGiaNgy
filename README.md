@@ -15,7 +15,7 @@
   <section>
       <h2>About Me 🤓</h2>
       <p>My full name is Nguyen Gia Minh.</p>
-      <p>I'm currently a sophomore at Michigan State, Majoring in Computer Science and Engineering. 🏫</p>
+      <p>I'm currently a Junior at Michigan State, Majoring in Computer Science and Engineering. 🏫</p>
       <p>Just an enthusiast figuring things out 🎯</p>
     
   </section>
@@ -25,7 +25,7 @@
       <ul>
           <li>Videogames 🎮</li>
           <li>Cars 🏎️</li>
-          <li>Wasting too much time on easy problems on LeetCode 😭</li>
+          <li>Wasting too much time on medium problems on LeetCode 😭</li>
       </ul>
   </section>
 
@@ -33,8 +33,8 @@
   <section>
     <h2>What I'm Working On 🎯</h2>
     <ul>
-        <li> Currently nothing right now 🦗</li>
-        <li> Failing my classes 😭</li>
+        <li> Something big is in the works.. 🦗</li>
+        <li> NOT Failing my classes</li>
     </ul>
   </section>
 
