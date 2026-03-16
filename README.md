@@ -1,67 +1,120 @@
+# 👋 Hi, I'm Minh Gia Nguyen
 
+💻 Computer Science @ Michigan State University  
+⚡ Interested in **distributed systems, backend engineering, and high-performance infrastructure**  
+🚀 Currently building scalable systems and learning way too much from LeetCode
 
-![](https://komarev.com/ghpvc/?username=MinhGiaNgy&label=STALKERS&style=plastic&color=blueviolet&base=0)
+---
 
+# 🧠 About Me
 
+I'm a software engineer focused on building **reliable backend systems and scalable infrastructure**.
 
+Recently I've been working on:
+- distributed ingestion pipelines
+- high-concurrency APIs
+- cloud infrastructure on AWS
+- database performance optimization
 
+I enjoy building systems that handle **real data, real users, and real scale**.
 
-<body style="background-color: black; color: lightgray;">
+---
 
-  <div>
-      <h1> 👋 Hello World, I'm <a href="https://github.com/MinhGiaNgy/" style="color: lightblue;">@MinhGiaNgy</a></h1>
-  </div>
+# 🚀 Featured Projects
 
-  <section>
-      <h2>About Me 🤓</h2>
-      <p>My full name is Nguyen Gia Minh.</p>
-      <p>I'm currently a Junior at Michigan State, Majoring in Computer Science and Engineering. 🏫</p>
-      <p>Just an enthusiast figuring things out 🎯</p>
-    
-  </section>
+## 🌐 Personal Website — Obscur
+My personal website and project showcase.
 
-  <section>
-      <h2>Hobbies 🎮</h2>
-      <ul>
-          <li>Videogames 🎮</li>
-          <li>Cars 🏎️</li>
-          <li>Wasting too much time on medium problems on LeetCode 😭</li>
-      </ul>
-  </section>
+**Tech**
+TypeScript • Next.js • Tailwind • PostgreSQL
 
+Features
+- portfolio and project hub
+- responsive UI
+- backend API integration
 
-  <section>
-    <h2>What I'm Working On 🎯</h2>
-    <ul>
-        <li> Something big is in the works.. 🦗</li>
-        <li> NOT Failing my classes</li>
-    </ul>
-  </section>
+🔗 https://github.com/MinhGiaNgy/obscur-prod
 
+---
 
-  
+## 🎮 CS:GO Skins Indexer
+High-throughput item indexing service for the Steam marketplace.
 
-  <section>
-      <h2>Reach me at</h2>
-      <div style="display: flex; align-items: center; flex-direction: row; justify-content: space-between;">
-  <a href="https://discordapp.com/users/408966274492792853" target="_blank">
-    <img src="./asset/colored-SVG/discord-com.svg" style="width: 10%;">
-  </a>
-  <a href="https://www.linkedin.com/in/minh-gia-nguyen-884792257/" target="_blank">
-    <img src="./asset/colored-SVG/linkedin-com.svg" style="width: 10%;">
-  </a>
-  <a href="https://leetcode.com/u/ExoticButters2005/" target="_blank">
-    <img src="./asset/colored-SVG/leetcode-com.svg" style="width: 10%;"> 
-  </a>
-  <a href="https://www.facebook.com/giaminh.nguyen.50115/" target="_blank">
-    <img src="./asset/colored-SVG/facebook-com.svg" style="width: 10%;"> 
-  </a>
-        
-</div>
-      <p>My Mail: <a href="mailto:nguy1308@msu.edu" style="color: lightblue;">nguy1308@msu.edu</a></p>
-  </section>
+**Tech**
+Python • FastAPI • Redis • Docker • AsyncIO
 
-  <p><font color="green">Go Green</font>, <font color="white">Go White</font></p>
+Highlights
+- concurrent scraping pipeline handling **50k+ items**
+- Redis caching reducing query latency **1.5s → <10ms**
+- deployed backend serving **400+ users across Discord communities**
 
-</body>
-</html>
+🔗 https://github.com/MinhGiaNgy/CSGO_skins_finder
+
+---
+
+## 🏋️ Gym App
+Workout tracking application focused on simplicity and speed.
+
+**Tech**
+TypeScript • Node.js • PostgreSQL
+
+Features
+- exercise logging
+- progress tracking
+- simple backend architecture
+
+🔗 https://github.com/MinhGiaNgy/gymapp
+
+---
+
+## 🛠 SpartaHack Projects
+Hackathon builds and experiments.
+
+**Tech**
+JavaScript • TypeScript
+
+Projects include:
+- rapid prototypes
+- small full-stack experiments
+- hackathon submissions
+
+🔗 https://github.com/MinhGiaNgy
+
+---
+
+# 🧰 Tech Stack
+
+### Languages
+Java • C++ • Python • TypeScript • SQL • Rust • Go
+
+### Backend / Infrastructure
+Spring Boot • FastAPI • Node.js • PostgreSQL • Redis • Docker
+
+### Cloud & DevOps
+AWS • CI/CD • Linux • Git • Prisma
+
+### Frontend
+React • Next.js • Tailwind
+
+---
+
+# 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MinhGiaNgy&show_icons=true&theme=tokyonight)
+
+---
+
+# 📫 Connect With Me
+
+LinkedIn  
+https://linkedin.com/in/minh-gia-nguyen-884792257
+
+LeetCode  
+https://leetcode.com/u/ExoticButters2005/
+
+Email  
+nguy1308@msu.edu
+
+---
+
+🟢 **Go Green, Go White**
